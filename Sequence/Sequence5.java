@@ -29,7 +29,7 @@ public class Sequence5 {
         		
         } 
         System.out.println(ex + "=" + S); // syso
-        
+          
 	}
         
            // 이 곳을 채우시오
