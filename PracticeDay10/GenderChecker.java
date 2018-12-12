@@ -1,4 +1,4 @@
-package PracticeDay10;
+package practiceDay10;
 
 public class GenderChecker {
 

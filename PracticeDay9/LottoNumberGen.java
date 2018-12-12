@@ -2,7 +2,7 @@
  		// Lotto 6개의 램덤숫자.
 		// 1 ~ 45 까지 랜덤 숫자. 
 */
-package PracticeDay9;
+package practiceDay9;
 
 import java.util.Random;
 

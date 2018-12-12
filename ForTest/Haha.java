@@ -1,4 +1,4 @@
-package ForTest;
+package forTest;
 
 import java.util.Scanner;
 

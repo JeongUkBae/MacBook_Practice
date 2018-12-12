@@ -1,8 +1,8 @@
-package Practice1;
+package practice1;
 
 import java.util.Scanner;
 
-import Practice1.Bmi;
+import practice1.Bmi;
 public class Menu {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package PracticeDay9;
+package practiceDay9;
 
 import java.util.Scanner;
 
