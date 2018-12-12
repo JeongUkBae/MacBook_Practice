@@ -25,7 +25,7 @@ public class Fibonacci17710 {
 			if(N<7) {
 				break;
 			}
-			
+			 
 		}
 		
 			

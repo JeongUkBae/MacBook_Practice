@@ -21,7 +21,7 @@ public class Calc {
 			default : result = 0; break;
 		}
 		System.out.printf("\n%d %s %d = %d",x,op,y,result);
-		
+		 
 	}
 public static void main(String[] args) {
 	Calc test = new Calc();

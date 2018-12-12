@@ -24,7 +24,7 @@ public class Bmi {
 		} else {
 			result = "저체중";
 		}
-		
+		 
 		
 		System.out.printf("%f \n%s ",bmi,result);
 		
