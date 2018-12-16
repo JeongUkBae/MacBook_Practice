@@ -20,7 +20,7 @@ public class Menu {
 						case "2" :  Bmi aa = new Bmi(); 
 									aa.bmi(); break;
 						case "5" :  Ranking ranking = new Ranking();
-									ranking.ranking();break;
+								//	ranking.main();break;
 						case "4" :   break;
 					
 					}//switch 	

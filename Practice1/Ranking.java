@@ -3,7 +3,7 @@ package practice1;
 import java.util.Scanner;
 
 public class Ranking {
-	public void ranking() {
+	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("학생이름과 점수 입력");
 		String name = scanner.next();
@@ -26,6 +26,7 @@ public class Ranking {
 		String result = "";
 		for(i[3]=1; i[3]<=3; i[3]++) {
 			if(i[0]>i[1]&&i[1]>i[2]) {
+				System.out.println(i[0]+"+"+i[1]+"+"+i[2]);
 			
 			}
 			
@@ -33,7 +34,6 @@ public class Ranking {
 		
 		
 		System.out.println(a[0]+a[1]+a[2]);
-		System.out.println(i[0]+"+"+i[1]+"+"+i[2]);
 		
 	}
 	
